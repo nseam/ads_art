@@ -1,0 +1,9 @@
+name = Ads Art
+description = Provides common Art features for Ads distribution
+core = 7.x
+package = ADS Art
+version = 7.x-1.0
+project = ads_art
+dependencies[] = ads_taxonomy
+features[features_api][] = api:1
+files[] = ads_art.module

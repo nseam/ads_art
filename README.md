@@ -1,4 +1,4 @@
-ads_art
-=======
+ads_animals
+===========
 
-Provides common Art features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.

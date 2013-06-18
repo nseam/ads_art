@@ -1,0 +1,14 @@
+<?php
+/**
+ * @file
+ * Ads Art common features.
+ */
+
+/**
+ * Implements hook_ads_taxonomy_import().
+ */
+function ads_art_ads_taxonomy_files() {
+  return array(
+    drupal_get_path('module', 'ads_art') . '/taxonomies/Categories.csv',
+  );
+}
